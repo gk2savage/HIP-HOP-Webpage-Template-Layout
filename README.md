@@ -1,4 +1,4 @@
-## #Hip Hop Theme Based Webpage Template
+## Hip Hop Theme Based Webpage Template
 ### About Webpage
 
 HTML Webpage Template / Layout based on HIP HOP THEME. 
@@ -8,7 +8,7 @@ HTML Webpage Template / Layout based on HIP HOP THEME.
 - Simple Webpage consisting of HTML,CSS, Javascript and Bootstrap.
 - Responsive Web-Design to suit all platforms.
 
-###Links
+#Links
 
 [Youtube]( https://www.youtube.com/gk2savage)
 [Instagram]( https://www.instagram.com/gk2savage)
@@ -19,7 +19,7 @@ All other platforms @gk2savage
 
 
 
-###Images
+#Images
 
 
 >“Trust your own judgement, live with it and love it.” – Nas
